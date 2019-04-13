@@ -1,4 +1,4 @@
-# MachineLearningAlgorithms
+# Machine Learning Algorithms
 Basic examples of machine learning algorithms.
 
 This repository was created with the objective of illustrating basic machine learning algorithms to students of the Technological University of Panama.
